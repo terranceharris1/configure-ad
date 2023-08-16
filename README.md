@@ -2,7 +2,7 @@
 <img src="https://i.imgur.com/pU5A58S.png" alt="Microsoft Active Directory Logo"/>
 </p>
 
-<h1>On-premises Active Directory Deployed in the Cloud (Azure)</h1>
+<h1>Active Directory Deployed in the Cloud (Azure)</h1>
 Through this lab, I gained hands-on experience with setting up Active Directory, creating user accounts, managing passwords, unlocking locked accounts, and successfully logging into accounts I created.<br />
 
 
